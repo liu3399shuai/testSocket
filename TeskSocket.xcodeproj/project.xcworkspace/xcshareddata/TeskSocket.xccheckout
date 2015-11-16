@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>76F500FB-A756-48C8-98CA-0CB5D397EBBB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TeskSocket</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AAD72934-04CB-42AF-8395-8F52E2DC4655</key>
+		<string>svn://192.168.0.109/apple/Morris/ios/RenRenTong/TeskSocket</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TeskSocket.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AAD72934-04CB-42AF-8395-8F52E2DC4655</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>AAD72934-04CB-42AF-8395-8F52E2DC4655</key>
+		<string>svn://192.168.0.109</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://192.168.0.109/apple/Morris/ios/RenRenTong/TeskSocket/TeskSocket.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AAD72934-04CB-42AF-8395-8F52E2DC4655</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AAD72934-04CB-42AF-8395-8F52E2DC4655</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TeskSocket</string>
+		</dict>
+	</array>
+</dict>
+</plist>
